@@ -1,4 +1,4 @@
-### Hello👋, Thank you for visiting my github profile, I'm Denis Ouma. 
+### Hello👋, Thank you for visiting my github profile, I'm Dennis Anyonje. 
 📫 [Twitter](https://twitter.com/danyonje) | [LinkedIn](https://www.linkedin.com/in/dennisanyonje/)
 ![Viewers](https://gpvc.arturio.dev/Denno31)
 <hr />
