@@ -17,6 +17,6 @@ skills and expand technical knowledge.
 
 
 <img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Denno31&layout=compact"/>
-<img align = "left" width = "47%" src = "https://www.codewars.com/users/Denno31/badges/large"/>
+
 
 
